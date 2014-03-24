@@ -1,0 +1,11 @@
+//belajar git dengan melakukan pusd pada github
+//menampilkan biodata pribadi
+//perintah yang kedua
+
+Nama			 : Muhammad Riandi Rachman
+Nim				 : 4510210025
+Alamat			 : Depok
+Tempat lahir	 : Jakarta
+Hobby			 : Nulis Novel
+email di github  : ryandirachman
+email connect	 : ryandirachman@ymail.com
